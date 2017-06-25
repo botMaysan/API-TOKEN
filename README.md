@@ -1,9 +1,4 @@
-[TH3BOSS](https://telegram.me/TH3BOSS)
-  
-[V14 We Are Th3Best](https://telegram.me/llDEV1ll)
-  
-[كـيـفـيـه تـنـصـيـب سـورس الـزعـيـم](https://telegram.me/TH3BOSS) 
- 
+
 ```sh
 
 افتـح ترمنـــأل وخلي   

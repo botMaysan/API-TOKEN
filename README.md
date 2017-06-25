@@ -24,7 +24,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/botMaysan/TH3BOSS.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
@@ -49,11 +49,7 @@ chmod +x TH3BOSS.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
-واذا محظور تعال على بوت التواصل
-@ll60Kllbot
-قـنـاة الـسـورس
-@llDEV1ll
+
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -94,17 +90,8 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
  لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 
 ```
   sudo_users = {
-    60809019,
+    270267532,
     0,
     YourID
   }
 ```
- مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
-
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
-You have an idea to develop Alsoors or bot prefer 🏿️
-
-📌 Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
